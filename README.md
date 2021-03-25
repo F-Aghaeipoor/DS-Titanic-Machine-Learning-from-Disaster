@@ -1,5 +1,4 @@
-# Data-Science-Titanic
-Data Science -Titanic classification
+# Data Science -Titanic classification
 
 These notebooks walk us through one of the first challenges of the Kaggle platform, the legendary Titanic ML competition. 
 
