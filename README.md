@@ -2,7 +2,7 @@
 
 <p align="justify">These notebooks walk us through one of the first challenges of the Kaggle platform, the legendary Titanic ML competition (https://www.kaggle.com/c/titanic). </p>
 
-This project has been prepared for educational purposes to dive into ML workflows and familiarize students with how data science problems can basically be handled .
+<p align="justify">This project has been prepared for educational purposes to dive into ML workflows and familiarize students with how data science problems can basically be handled.</p>
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
